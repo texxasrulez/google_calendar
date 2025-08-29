@@ -6,7 +6,7 @@
         "source": "https://github.com/texxasrulez/google_calendar"
     },
     "description": "Calendar plugin with Google Oauth",
-    "homepage": "https://github.com/texxasrulez/calendar",
+    "homepage": "https://github.com/texxasrulez/google_calendar",
 	"license": "GPL-3.0",
     "version": "1.0",
     "authors": [

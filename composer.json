@@ -18,7 +18,7 @@
             "name": "Gene Hawkins",
             "email": "texxasrulez@yahoo.com",
             "role": "Developer"
-        },
+        }
     ],
     "require": {
         "php": ">=7.2.0",

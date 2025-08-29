@@ -14,14 +14,12 @@
             "name": "Aleksander Machniak",
             "email": "machniak@kolabsys.com",
             "role": "Developer"
+        },
+            "name": "Gene Hawkins",
+            "email": "texxasrulez@yahoo.com",
+            "role": "Developer"
         }
-    ],    
-        "repositories": [
-            {
-                "type": "path",
-                "url": "path/to/your/local/plugin/directory" // Absolute or relative path
-            }
-        ],
+    ],
     "require": {
         "php": ">=7.2.0",
         "roundcube/plugin-installer": ">=0.1.3",

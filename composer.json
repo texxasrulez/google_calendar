@@ -1,14 +1,14 @@
 {
-    "name": "texxasrulez/google_calendar",
-    "type": "roundcube-plugin",
-    "support": {
-        "issues": "https://github.com/texxasrulez/google_calendar/issues",
-        "source": "https://github.com/texxasrulez/google_calendar"
-    },
-    "description": "Calendar plugin with Google Oauth",
-    "homepage": "https://github.com/texxasrulez/google_calendar",
-	"license": "GPL-3.0",
-    "version": "1.0",
+  "name": "texxasrulez/google_calendar",
+  "type": "roundcube-plugin",
+  "description": "Calendar plugin with Google Oauth",
+  "homepage": "https://github.com/texxasrulez/google_calendar",
+  "support": {
+    "issues": "https://github.com/texxasrulez/google_calendar/issues",
+    "source": "https://github.com/texxasrulez/google_calendar"
+  },
+  "license": "GPL-3.0",
+  "version": "1.0",
     "authors": [
         {
             "name": "Thomas Bruederli",
@@ -18,7 +18,7 @@
         {
             "name": "Gene Hawkins",
             "email": "texxasrulez@yahoo.com",
-            "role": "Developer"
+            "role": "Lead"
         }
     ],
     "require": {

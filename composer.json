@@ -1,0 +1,43 @@
+{
+    "name": "texxasrulez/calendar",
+    "type": "roundcube-plugin",
+    "description": "Calendar plugin",
+    "license": "AGPLv3",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Thomas Bruederli",
+            "email": "bruederli@kolabsys.com",
+            "role": "Lead"
+        },
+        {
+            "name": "Aleksander Machniak",
+            "email": "machniak@kolabsys.com",
+            "role": "Developer"
+        }
+    ],    
+        "repositories": [
+            {
+                "type": "path",
+                "url": "path/to/your/local/plugin/directory" // Absolute or relative path
+            }
+        ],
+    "require": {
+        "php": ">=7.2.0",
+        "roundcube/plugin-installer": ">=0.1.3",
+        "kolab/libcalendaring": ">=3.4.0",
+        "kolab/libkolab": ">=3.4.0",
+        "google/apiclient": "^2.17"
+    },
+    "extra": {
+        "roundcube": {
+            "min-version": "1.6.0",
+            "sql-dir": "drivers/database/SQL"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "roundcube/plugin-installer": true
+        }
+    }
+}

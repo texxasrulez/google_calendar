@@ -1,10 +1,10 @@
 {
     "name": "kolab/calendar",
     "type": "roundcube-plugin",
-	  "support": {
-		"issues": "https://github.com/texxasrulez/calendar/issues",
-		"source": "https://github.com/texxasrulez/calendar"
-	  },
+    "support": {
+        "issues": "https://github.com/texxasrulez/calendar/issues",
+        "source": "https://github.com/texxasrulez/calendar"
+    },
     "description": "Calendar plugin with Google Oauth",
     "homepage": "https://github.com/texxasrulez/calendar",
     "license": "AGPLv3",
@@ -15,6 +15,7 @@
             "email": "bruederli@kolabsys.com",
             "role": "Lead"
         },
+        {
             "name": "Gene Hawkins",
             "email": "texxasrulez@yahoo.com",
             "role": "Developer"
